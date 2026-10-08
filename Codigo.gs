@@ -29,7 +29,7 @@
 // ======================= CONFIGURAÇÃO =======================
 const CONFIG = {
   SPREADSHEET_ID: '1KiD113MEk8rHFXY8XG1AoRKodWVYDPK5tSrDyHJ4WdY',
-  SHEET_NAME: 'Biologia 3F - 3º Bim',
+  SHEET_NAME: 'Página1',
   SCHOOL_CODE: 'WMS3EMQ2',             // igual ao SCHOOL_CODE do HTML
   GEMINI_MODEL: 'gemini-3.5-flash-lite',
   PAUSA_ENTRE_CHAMADAS_MS: 3000,       // aumente se aparecer erro 429 (limite da API)
